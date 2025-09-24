@@ -1,0 +1,11 @@
+C:\Development\MauiTestApp\MauiTestApp.Services\bin\Debug\net8.0\MauiTestApp.Services.deps.json
+C:\Development\MauiTestApp\MauiTestApp.Services\bin\Debug\net8.0\MauiTestApp.Services.dll
+C:\Development\MauiTestApp\MauiTestApp.Services\bin\Debug\net8.0\MauiTestApp.Services.pdb
+C:\Development\MauiTestApp\MauiTestApp.Services\obj\Debug\net8.0\MauiTestApp.Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Development\MauiTestApp\MauiTestApp.Services\obj\Debug\net8.0\MauiTestApp.Services.AssemblyInfoInputs.cache
+C:\Development\MauiTestApp\MauiTestApp.Services\obj\Debug\net8.0\MauiTestApp.Services.AssemblyInfo.cs
+C:\Development\MauiTestApp\MauiTestApp.Services\obj\Debug\net8.0\MauiTestApp.Services.csproj.CoreCompileInputs.cache
+C:\Development\MauiTestApp\MauiTestApp.Services\obj\Debug\net8.0\MauiTestApp.Services.dll
+C:\Development\MauiTestApp\MauiTestApp.Services\obj\Debug\net8.0\refint\MauiTestApp.Services.dll
+C:\Development\MauiTestApp\MauiTestApp.Services\obj\Debug\net8.0\MauiTestApp.Services.pdb
+C:\Development\MauiTestApp\MauiTestApp.Services\obj\Debug\net8.0\ref\MauiTestApp.Services.dll

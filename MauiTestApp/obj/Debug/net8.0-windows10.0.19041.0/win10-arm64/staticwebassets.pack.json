@@ -1,0 +1,49 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Development\\MauiTestApp\\MauiTestApp\\obj\\Debug\\net8.0-windows10.0.19041.0\\win10-arm64\\scopedcss\\bundle\\MauiTestApp.styles.css",
+      "PackagePath": "staticwebassets\\MauiTestApp.styles.css"
+    },
+    {
+      "Id": "C:\\Development\\MauiTestApp\\MauiTestApp\\wwwroot\\css\\app.css",
+      "PackagePath": "staticwebassets\\css\\app.css"
+    },
+    {
+      "Id": "C:\\Development\\MauiTestApp\\MauiTestApp\\wwwroot\\css\\bootstrap\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Development\\MauiTestApp\\MauiTestApp\\wwwroot\\css\\bootstrap\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Development\\MauiTestApp\\MauiTestApp\\wwwroot\\favicon.png",
+      "PackagePath": "staticwebassets\\favicon.png"
+    },
+    {
+      "Id": "C:\\Development\\MauiTestApp\\MauiTestApp\\wwwroot\\index.html",
+      "PackagePath": "staticwebassets\\index.html"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0-windows10.0.19041.0\\win10-arm64\\staticwebassets\\msbuild.MauiTestApp.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0-windows10.0.19041.0\\win10-arm64\\staticwebassets\\msbuild.MauiTestApp.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0-windows10.0.19041.0\\win10-arm64\\staticwebassets\\msbuild.build.MauiTestApp.props",
+      "PackagePath": "build\\MauiTestApp.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0-windows10.0.19041.0\\win10-arm64\\staticwebassets\\msbuild.buildMultiTargeting.MauiTestApp.props",
+      "PackagePath": "buildMultiTargeting\\MauiTestApp.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0-windows10.0.19041.0\\win10-arm64\\staticwebassets\\msbuild.buildTransitive.MauiTestApp.props",
+      "PackagePath": "buildTransitive\\MauiTestApp.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
